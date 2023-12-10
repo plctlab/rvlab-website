@@ -6,7 +6,7 @@ The [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://english.
 
 PLCT Lab is an engineering team affiliated with ISCAS, focusing on compilers, runtimes and simulators for RISC-V ecosystem.
 
-PLCT Lab and RVI provide free access to RISC-V devices to open source communities and developers around the world. You only need to initiate a PR to PLCT Lab's [RVLab access management repository](https://github.com/plctlab/riscv-lab-access), including your GitHub Username and a simple description of the expected goal. Within a week, you will obtain ssh access to unmatched and other development boards, optional Ubuntu, openEuler, openKylin , Fedora, Debian and other operating systems.
+PLCT Lab and RVI provide free access to RISC-V devices to open source communities and developers around the world. You only need to initiate a PR to PLCT Lab's [RVLab access management repository](https://github.com/plctlab/riscv-lab-access), including your GitHub Username and a simple description of the expected goal. Within a week, you will obtain ssh access to unmatched or other development boards, with Ubuntu, openEuler, openKylin , Fedora, Debian and other operating systems available.
 
 [Submit your proposal today!](https://github.com/plctlab/riscv-lab-access)
 
