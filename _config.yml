@@ -3,3 +3,5 @@ description: Free access to RISC-V Boards for open source developers worldwide.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+github:
+  is_project_page: false
