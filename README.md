@@ -1,6 +1,6 @@
-# This is the landing page for RISC-V Lab @ ISCAS.
+# This is the landing page for RISC-V Ecosystem Lab @ ISCAS.
 
-First time hearing about RISC-V Lab? Checkout the [official page from RISC-V International](https://riscv.org/risc-v-lab-partner/)!
+First time hearing about RISC-V Ecosystem Lab? Checkout the [official page from RISC-V International](https://riscv.org/developers/labs/)!
 
 The [Institute of Software, Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/) is a research base that focuses on the research and development on theories of computer science and leading edge technologies of software. ISCAS was founded on March 1st, 1985. It is situated at No.4, Zhongguancun South 4th Street, Haidian District, in Beijing.
 
@@ -10,7 +10,7 @@ PLCT Lab and RVI provide free access to RISC-V devices to open source communitie
 
 [Submit your proposal today!](https://github.com/plctlab/riscv-lab-access)
 
-List of RISC-V Labs:
+List of RISC-V Ecosystem Labs:
 
 - 10xEngineer
 - Oregon State University Open Source Lab
@@ -19,6 +19,6 @@ List of RISC-V Labs:
 About us:
 
 - [Acceptable Usage Policy](./AUP.md)
-- [RISC-V Labs SLA](./SLA.md)
+- [RISC-V Ecosystem Labs SLA](./SLA.md)
 - [Usage Metrics](./UsageMetrics.md)
 
